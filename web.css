@@ -1,0 +1,39 @@
+.blue {
+  color: blue;
+}
+
+body {
+  background-color: cyan;
+}
+
+span {
+  font-size: 50px;
+  color: blue;
+}
+
+table {
+  border-style: ridge;
+  border-width: 3px;
+  border-color: blue;
+  padding: 5px;
+}
+
+form {
+  margin-left: 500px;
+}
+
+a {
+  display: block;
+}
+
+h2 {
+  clear: both;
+}
+
+div {
+  clear: both;
+}
+
+hr {
+  clear: both;
+}
