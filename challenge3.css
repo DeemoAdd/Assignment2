@@ -1,0 +1,13 @@
+.red {
+  position: relative;
+  left: 200px;
+}
+.blue {
+  position: relative;
+  bottom: 104px;
+}
+.green {
+  position: relative;
+  bottom: 208px;
+  left: 100px;
+}
